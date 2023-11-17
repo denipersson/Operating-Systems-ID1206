@@ -1,0 +1,1 @@
+Urbit is a new OS and peer-to-peer network that’s simple by design, built to last forever, and 100% owned by its users. Under the hood, Urbit is a clean-slate software stack compact enough that an individual developer can understand and control it completely.
